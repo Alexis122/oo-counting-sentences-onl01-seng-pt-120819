@@ -7,8 +7,9 @@ class String
   end
 
   def question?
-
+    puts self
   end
+end
 
   def exclamation?
 
